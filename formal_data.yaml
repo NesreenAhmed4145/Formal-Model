@@ -1,0 +1,11 @@
+
+path: ../datasets/formal_wear_filtered
+train: images/train
+val: images/val 
+test: images/test
+nc: 4
+names:
+  0: Shirt
+  1: Jacket
+  2: Tie
+  3: Pants

@@ -1,0 +1,10 @@
+names:
+  0: Shirt
+  1: Jacket
+  2: Tie
+  3: Pants
+nc: 4
+path: c:\Users\anesr\OneDrive\Documents\GP Project models\datasets\formal_wear_filtered
+test: images/test
+train: images/train
+val: images/val
