@@ -85,8 +85,9 @@ Sportswear
 A final decision is obtained using majority voting across the analyzed frames.
 
 📊 Model Performance
-Metric	Value
-Accuracy	90%
+Mean Average Precision (mAP50): 0.895
+Precision: 0.847
+Recall: 0.842
 
 Conclusion:
 The achieved accuracy demonstrates that the model is highly effective in identifying formal attire, making it suitable for real-world interview assessment scenarios.
